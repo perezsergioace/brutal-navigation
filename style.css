@@ -159,7 +159,7 @@ ion-icon {
 .menu-links .menu-link-4 a::after {
 	content: url(./images/menu-link-4.png);
 	position: absolute;
-	top: 50%;
+	top: 75%;
 	left: -20px;
 }
 
